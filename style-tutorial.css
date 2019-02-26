@@ -1,0 +1,91 @@
+ html{
+     font-size: 16px;
+ }
+
+ #px {
+     font-size: 16px;
+ }
+
+ #px30 {
+     font-size: 30px;
+ }
+
+ #em{
+     font-size: 0.5em;
+ }
+
+ #ex{
+     font-size: 6ex;
+ }
+
+ #div {
+    font-size: 3rem;
+    border: 1px solid black;
+  }
+  
+  #top-div {
+    font-size: 2rem;
+    border: 1px solid red;
+  }
+
+  #in
+  {
+      font-size: 0.5in;
+  }
+
+  #cm{
+      font-size: 1cm;
+  }
+
+  #mm{
+      font-size: 10mm;
+  }
+
+  #pc{
+      font-size: 6pc;
+  }
+
+  #pt{
+      font-size: 50pt;
+  }
+
+  #porcentaje{
+    font-size: 200%;
+  }
+
+  .titulo{
+      font-size: 2cm;
+      border: 1px solid gray;
+      color: blue
+  }
+
+  #rgb{
+      color: rgb(163, 20, 120);
+  }
+
+  #rgb2{
+      color: #17F16F;
+  }
+
+  #rgb3{
+      color: rgb(50%, 40%, 30%);
+  }
+
+  #hsl{
+      color: hsl(166, 100%, 70%)
+  }
+
+  #rgba{
+      color: rgba(60%, 30%, 40%, 0.5)
+  }
+
+  #hsla{
+    color:hsla(120,100%,25%,0.3); /* dark green */
+  }
+
+  #padding
+  {
+      margin: 10px;
+      padding: 20px;
+      border: 1px black solid
+  }
